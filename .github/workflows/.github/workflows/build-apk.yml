@@ -1,4 +1,4 @@
-name: Build Briolux CBE Tracker APK
+name: Briolux CBE Tracker APK Build
 
 on:
   workflow_dispatch:
